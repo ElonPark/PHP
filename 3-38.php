@@ -1,6 +1,6 @@
 <?
 $name[0] = "lee";
-$name[1] = "choi"
+$name[1] = "choi";
 $name[2] = "kim";
 $name[3] = "park";
 
