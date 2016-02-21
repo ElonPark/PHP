@@ -1,0 +1,17 @@
+<html>
+    <body>
+        저는  html만으로 작성되었습니다! <br>
+        
+        <script language = "javascript">
+            document.write("저는 자바스크립트로 작성되었습니다!" + "<br>")
+            </script>
+            
+           <? 
+           echo "저는 echo 함수 입니다!";
+           echo "<br>";
+           print "저는 print 함수 입니다!";
+           ?>
+
+          </body>
+           </html>
+           
