@@ -1,0 +1,21 @@
+<html>
+<head>
+
+  <script language="javascript">
+
+  function check() {
+    if(document.box.message.value.length <= 0) {
+      alert("메시지를 입력하지 않았어요!");
+      document.box.message.focus();
+      return;
+    }
+
+    document.box.submit();
+  }
+
+  function focus() {
+    document.box.message.focus();
+    return;
+  }
+  </script>
+</head>
